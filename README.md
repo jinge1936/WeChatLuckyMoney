@@ -45,3 +45,5 @@
 插件可能会在一定程度上改变微信的交互方式。使用本项目中包含的代码及其生成物时，使用者自行承担随之而来的各种风险，包括但不限于“禁用红包功能”、“微信封号”。
 
 本项目使用[MIT许可证](https://github.com/geeeeeeeeek/WeChatLuckyMoney/blob/stable/LICENSE.md)。
+
+test
